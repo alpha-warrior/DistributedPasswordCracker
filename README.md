@@ -1,8 +1,4 @@
-# Team 3: Distributed Password Cracker
-## Team Members
-- Akshit Garg (2018113006)
-- Amogh Tiwari (2018111003)
-- Utkarsh Mishra (2018102020)
+Distributed Password Cracker
 
 # Running the code
 1. Set up the environment: ```conda create -f environment.yaml```
