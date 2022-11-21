@@ -1,0 +1,6 @@
+Binded server to address : localhost and port : 11111
+Hash of password is ba7816bf8f01cfea414140de5dae2223b00361a396177a9cb410ff61f20015ad of hash type sha
+<socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 11111), raddr=('127.0.0.1', 44188)> connected with start value 1
+<socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 11111), raddr=('127.0.0.1', 44188)> said password is abc
+Stopping all clients
+Closing server
